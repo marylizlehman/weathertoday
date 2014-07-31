@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Marylizlehman"]
   spec.email         = ["maryliz6@mac.com"]
   spec.summary       = %q{Enter your zip code and we will tell you today's expected temp.}
-  spec.description   = %q{TODO: After you enter your zip code, we will tell you today's expected temperature.  Later versions will tell you about warnings like rain or unseasonable weather.}
+  spec.description   = %q{After you enter your zip code, we will tell you today's expected temperature.  Later versions will tell you about warnings like rain or unseasonable weather.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
